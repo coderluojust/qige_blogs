@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84967192-92d5-4f1d-ae9d-5f4f1f7ca8b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/seven_qige.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/视频号-小.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/视频号-258.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595347211945</updated>
-      <workItem from="1595347213106" duration="1966000" />
+      <workItem from="1595347213106" duration="3337000" />
     </task>
     <servers />
   </component>
