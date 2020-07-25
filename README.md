@@ -5,15 +5,15 @@
 4. 对技术有热情，同时也努力能提升认知，扩展不同的圈子；
 5. 公众号 & 视频号 & CSDN同名，都是 **七哥爱编程**；
 
+![公众号](./seven_qige.jpg)
 
 
 # 关于这个项目
 
-1. CSDN博客地址：[https://blog.csdn.net/taurus_7c](https://blog.csdn.net/taurus_7c)
-2. 公众号 & 视频号 & CSDN同名，都是 **七哥爱编程**；
-3. 这个仓库是博客的汇总，博客中涉及的代码和文件资料，方便大家查阅；
+> 这个仓库是博客的汇总，博客中涉及的代码和文件资料都在这个项目中，方便大家查阅；
 
-![公众号](./seven_qige.jpg)
+CSDN完整博客地址：[https://blog.csdn.net/taurus_7c](https://blog.csdn.net/taurus_7c)
+ 
 
 
 # 文章目录
