@@ -47,3 +47,4 @@ Java并发、JVM、Spring、Spring Boot、Mybatis、Linux、MySQL、Redis、数�
 7. [《神头鬼脸之适配器模式》](https://blog.csdn.net/taurus_7c/article/details/107436469)
 8. [《设计模式之外观模式解析》](https://blog.csdn.net/taurus_7c/article/details/107583873)
 9. [《最有用的设计模式之一-模板方法》](https://blog.csdn.net/taurus_7c/article/details/107584205)
+10.[《行为型模式：迭代器模式解析》](https://blog.csdn.net/taurus_7c/article/details/107649552)

@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84967192-92d5-4f1d-ae9d-5f4f1f7ca8b1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/iterator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/iterator/College.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/iterator/ComputerCollege.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/iterator/ComputerCollegeIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/iterator/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/iterator/InfoColleageIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/iterator/InfoCollege.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/iterator/OutPutImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,18 +34,23 @@
     <option name="jreName" value="#JAVA_HOME" />
   </component>
   <component name="ProjectId" id="1f0Fg7o3zPcg3gWli6AxS3gENdE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="F:/BaiduNetdiskDownload/源码笔记课件/代码/DesignPattern/bin/com/atguigu/proxy/cglib/cglib-2.2.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="$PROJECT_DIR$/../../../nodejs/node" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\dev_tools\Java\IdeaProjects\qige_blogs\design-patterns\src" />
       <recent name="I:\dev_tools\Java\IdeaProjects\qige_blogs" />
     </key>
   </component>
@@ -56,6 +69,20 @@
   <component name="RunManager">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iterator.Client" />
+      <module name="design-patterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="iterator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -91,6 +118,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -102,7 +134,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595347211945</updated>
-      <workItem from="1595347213106" duration="6991000" />
+      <workItem from="1595347213106" duration="8296000" />
+      <workItem from="1595948078908" duration="3339000" />
     </task>
     <servers />
   </component>
@@ -114,7 +147,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
