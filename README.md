@@ -50,3 +50,6 @@ Java并发、JVM、Spring、Spring Boot、Mybatis、Linux、MySQL、Redis、数�
 8. [《设计模式之外观模式解析》](https://blog.csdn.net/taurus_7c/article/details/107583873)
 9. [《最有用的设计模式之一-模板方法》](https://blog.csdn.net/taurus_7c/article/details/107584205)
 10. [《行为型模式之迭代器模式解析》](https://blog.csdn.net/taurus_7c/article/details/107649552)
+11. [《设计模式系列11-组合模式解析》](https://blog.csdn.net/taurus_7c/article/details/107870010)
+12. [《设计模式系列：状态模式解析》](https://blog.csdn.net/taurus_7c/article/details/107890173)
+13. [《代理模式解析，静态代理、动态代理一文全都告诉你》](https://blog.csdn.net/taurus_7c/article/details/107890887)
