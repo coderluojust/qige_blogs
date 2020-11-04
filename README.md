@@ -7,6 +7,7 @@
 
 ![公众号](./seven_qige.jpg)
 
+同时想要结识七哥，及时获取最新技术文章，进学习交流群都可以关注公众号获取。
 
 # 关于这个项目
 
@@ -36,7 +37,9 @@ Java并发、JVM、Spring、Spring Boot、Mybatis、Linux、MySQL、Redis、数�
 7. [《读写锁 ReentrantReadWriteLock 源码解析》](https://blog.csdn.net/taurus_7c/article/details/105891774)
 8. [《CurrentHashMap如何实现高效地线程安全？在Java8中有哪些设计实现的演进？》](https://blog.csdn.net/taurus_7c/article/details/105963943)
 9. [《无界线程安全队列ConcurrentLinkedQueue源码解析》](https://blog.csdn.net/taurus_7c/article/details/106075750)
-
+10. [《阻塞队列之ArrayBlockingQueue源码解析》](https://blog.csdn.net/taurus_7c/article/details/109441942)
+11. [《Atomic包下的原子操作类使用与原理解析》](https://blog.csdn.net/taurus_7c/article/details/108880857)
+12. [《Semaphore如何实现并发控制（限流）》](https://blog.csdn.net/taurus_7c/article/details/109270098)
 
 ## 设计模式
 
@@ -53,3 +56,8 @@ Java并发、JVM、Spring、Spring Boot、Mybatis、Linux、MySQL、Redis、数�
 11. [《设计模式系列11-组合模式解析》](https://blog.csdn.net/taurus_7c/article/details/107870010)
 12. [《设计模式系列：状态模式解析》](https://blog.csdn.net/taurus_7c/article/details/107890173)
 13. [《代理模式解析，静态代理、动态代理一文全都告诉你》](https://blog.csdn.net/taurus_7c/article/details/107890887)
+
+## 程序人生
+
+1. [我是如何从电脑小白走上编程之路](https://coderluo.blog.csdn.net/article/details/108270119)
+2. [一个线程中断引发Bug的“爆肝”排查经历](https://coderluo.blog.csdn.net/article/details/109483049)
