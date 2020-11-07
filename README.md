@@ -5,7 +5,7 @@
 4. 对技术有热情，同时也努力能提升认知，扩展不同的圈子；
 5. 公众号 & 视频号 & CSDN同名，都是 **七哥爱编程**；
 
-![公众号](./seven_qige.jpg)
+![公众号](https://cdn.jsdelivr.net/gh/coderluojust/speed-image/img/20201107201142.jpg)
 
 同时想要结识七哥，及时获取最新技术文章，进学习交流群都可以关注公众号获取。
 
@@ -40,7 +40,7 @@ Java并发、JVM、Spring、Spring Boot、Mybatis、Linux、MySQL、Redis、数�
 10. [《阻塞队列之ArrayBlockingQueue源码解析》](https://blog.csdn.net/taurus_7c/article/details/109441942)
 11. [《Atomic包下的原子操作类使用与原理解析》](https://blog.csdn.net/taurus_7c/article/details/108880857)
 12. [《Semaphore如何实现并发控制（限流）》](https://blog.csdn.net/taurus_7c/article/details/109270098)
-
+13. 
 ## 设计模式
 
 1. [《据说是程序员工作中用到的最多的模式：策略模式解析》](https://blog.csdn.net/taurus_7c/article/details/106870960)
