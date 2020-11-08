@@ -40,7 +40,8 @@ Java并发、JVM、Spring、Spring Boot、Mybatis、Linux、MySQL、Redis、数�
 10. [《阻塞队列之ArrayBlockingQueue源码解析》](https://blog.csdn.net/taurus_7c/article/details/109441942)
 11. [《Atomic包下的原子操作类使用与原理解析》](https://blog.csdn.net/taurus_7c/article/details/108880857)
 12. [《Semaphore如何实现并发控制（限流）》](https://blog.csdn.net/taurus_7c/article/details/109270098)
-13. 
+13. [《想使用多线程来提高处理速度，却还不知道使用CountDownLatch与CyclicBarries?》](https://coderluo.blog.csdn.net/article/details/109555433)
+14. []()
 ## 设计模式
 
 1. [《据说是程序员工作中用到的最多的模式：策略模式解析》](https://blog.csdn.net/taurus_7c/article/details/106870960)
