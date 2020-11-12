@@ -27,7 +27,8 @@ Java并发、JVM、Spring、Spring Boot、Mybatis、Linux、MySQL、Redis、数�
 # Java领域
 
 ## Java并发
-![](https://cdn.jsdelivr.net/gh/coderluojust/speed-image/img/20201112154838.png)
+![](https://cdn.jsdelivr.net/gh/coderluojust/speed-image/img/20201112160608.png)
+
 1. [《死磕Java并发？首先需要学习的并发机制底层实现的三个原理》](https://coderluo.blog.csdn.net/article/details/105284029)
 2. [《阿里面试，一面就倒在了Java内存模型上》](https://blog.csdn.net/taurus_7c/article/details/105309445)
 3. [《volatile关键字你不了解？赶紧来看看》](https://blog.csdn.net/taurus_7c/article/details/105320119)
