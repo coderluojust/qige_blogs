@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="84967192-92d5-4f1d-ae9d-5f4f1f7ca8b1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="F:/BaiduNetdiskDownload/源码笔记课件/代码/DesignPattern/bin/com/atguigu/proxy/cglib/cglib-2.2.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="$PROJECT_DIR$/../../../nodejs/node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -122,8 +121,16 @@
       <updated>1595347211945</updated>
       <workItem from="1595347213106" duration="8296000" />
       <workItem from="1595948078908" duration="3339000" />
-      <workItem from="1604479599810" duration="710000" />
+      <workItem from="1604479599810" duration="2416000" />
     </task>
+    <task id="LOCAL-00001" summary="更新并发系列">
+      <created>1604480471565</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604480471565</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,5 +147,23 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="更新并发系列" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新并发系列" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="244" y="0" key="CommitChangelistDialog2" timestamp="1604480470558">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="244" y="0" key="CommitChangelistDialog2/0.0.1280.689/1920.0.1920.1200@0.0.1280.689" timestamp="1604480470558" />
+    <state x="122" y="51" key="DiffContextDialog" timestamp="1604480459397">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="122" y="51" key="DiffContextDialog/0.0.1280.689/1920.0.1920.1200@0.0.1280.689" timestamp="1604480459397" />
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1604480473842">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.689/1920.0.1920.1200@0.0.1280.689" timestamp="1604480473842" />
   </component>
 </project>
